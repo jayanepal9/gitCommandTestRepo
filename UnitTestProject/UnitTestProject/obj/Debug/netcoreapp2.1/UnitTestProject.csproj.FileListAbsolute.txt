@@ -1,0 +1,14 @@
+C:\Users\seva\Documents\gitCommandTestRepo\UnitTestProject\UnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\seva\Documents\gitCommandTestRepo\UnitTestProject\UnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\seva\Documents\gitCommandTestRepo\UnitTestProject\UnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\seva\Documents\gitCommandTestRepo\UnitTestProject\UnitTestProject\bin\Debug\netcoreapp2.1\UnitTestProject.deps.json
+C:\Users\seva\Documents\gitCommandTestRepo\UnitTestProject\UnitTestProject\bin\Debug\netcoreapp2.1\UnitTestProject.runtimeconfig.json
+C:\Users\seva\Documents\gitCommandTestRepo\UnitTestProject\UnitTestProject\bin\Debug\netcoreapp2.1\UnitTestProject.runtimeconfig.dev.json
+C:\Users\seva\Documents\gitCommandTestRepo\UnitTestProject\UnitTestProject\bin\Debug\netcoreapp2.1\UnitTestProject.dll
+C:\Users\seva\Documents\gitCommandTestRepo\UnitTestProject\UnitTestProject\bin\Debug\netcoreapp2.1\UnitTestProject.pdb
+C:\Users\seva\Documents\gitCommandTestRepo\UnitTestProject\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.csprojAssemblyReference.cache
+C:\Users\seva\Documents\gitCommandTestRepo\UnitTestProject\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\seva\Documents\gitCommandTestRepo\UnitTestProject\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.AssemblyInfoInputs.cache
+C:\Users\seva\Documents\gitCommandTestRepo\UnitTestProject\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.AssemblyInfo.cs
+C:\Users\seva\Documents\gitCommandTestRepo\UnitTestProject\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.dll
+C:\Users\seva\Documents\gitCommandTestRepo\UnitTestProject\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.pdb
